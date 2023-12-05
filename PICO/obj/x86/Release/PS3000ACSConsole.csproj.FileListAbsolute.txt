@@ -1,0 +1,4 @@
+C:\Users\wanganl\Desktop\沈晓东的SAKURA-G\上位机VC程序：SAKURA-G\PICO程序\bin\Release\PS3000ACSConsole.exe
+C:\Users\wanganl\Desktop\沈晓东的SAKURA-G\上位机VC程序：SAKURA-G\PICO程序\bin\Release\PS3000ACSConsole.pdb
+C:\Users\wanganl\Desktop\沈晓东的SAKURA-G\上位机VC程序：SAKURA-G\PICO程序\obj\x86\Release\PS3000ACSConsole.exe
+C:\Users\wanganl\Desktop\沈晓东的SAKURA-G\上位机VC程序：SAKURA-G\PICO程序\obj\x86\Release\PS3000ACSConsole.pdb

@@ -1,0 +1,106 @@
+C:\Users\sxd\Desktop\开发\ultimate\zb_Sakura_Pico\PICO程序\bin\Debug\PS3000ACSConsole.exe
+C:\Users\sxd\Desktop\开发\ultimate\zb_Sakura_Pico\PICO程序\bin\Debug\PS3000ACSConsole.pdb
+C:\Users\sxd\Desktop\开发\ultimate\zb_Sakura_Pico\PICO程序\obj\x86\Debug\PS3000ACSConsole.csproj.CoreCompileInputs.cache
+C:\Users\sxd\Desktop\开发\ultimate\zb_Sakura_Pico\PICO程序\obj\x86\Debug\PS3000ACSConsole.exe
+C:\Users\sxd\Desktop\开发\ultimate\zb_Sakura_Pico\PICO程序\obj\x86\Debug\PS3000ACSConsole.pdb
+C:\Users\sxd\Desktop\开发\ultimate\zb_Sakura_Pico\PICO程序\obj\x86\Debug\PS3000ACSConsole.csprojResolveAssemblyReference.cache
+C:\Users\sxd\Desktop\SAKURA-G光盘目录\附件8：SAKURA-G开发板采波软件 - 数缘科技\PICO\bin\Debug\PS3000ACSConsole.exe
+C:\Users\sxd\Desktop\SAKURA-G光盘目录\附件8：SAKURA-G开发板采波软件 - 数缘科技\PICO\bin\Debug\PS3000ACSConsole.pdb
+C:\Users\sxd\Desktop\SAKURA-G光盘目录\附件8：SAKURA-G开发板采波软件 - 数缘科技\PICO\obj\x86\Debug\PS3000ACSConsole.csprojResolveAssemblyReference.cache
+C:\Users\sxd\Desktop\SAKURA-G光盘目录\附件8：SAKURA-G开发板采波软件 - 数缘科技\PICO\obj\x86\Debug\PS3000ACSConsole.csproj.CoreCompileInputs.cache
+C:\Users\sxd\Desktop\SAKURA-G光盘目录\附件8：SAKURA-G开发板采波软件 - 数缘科技\PICO\obj\x86\Debug\PS3000ACSConsole.exe
+C:\Users\sxd\Desktop\SAKURA-G光盘目录\附件8：SAKURA-G开发板采波软件 - 数缘科技\PICO\obj\x86\Debug\PS3000ACSConsole.pdb
+C:\Users\sxd\Desktop\归档1\SAKURA-G光盘目录\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\bin\Debug\PS3000ACSConsole.exe
+C:\Users\sxd\Desktop\归档1\SAKURA-G光盘目录\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\bin\Debug\PS3000ACSConsole.pdb
+C:\Users\sxd\Desktop\归档1\SAKURA-G光盘目录\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.csprojResolveAssemblyReference.cache
+C:\Users\sxd\Desktop\归档1\SAKURA-G光盘目录\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.csproj.CoreCompileInputs.cache
+C:\Users\sxd\Desktop\归档1\SAKURA-G光盘目录\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.exe
+C:\Users\sxd\Desktop\归档1\SAKURA-G光盘目录\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.pdb
+E:\百度云下载\SAKURA-G配套U盘\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\bin\Debug\PS3000ACSConsole.exe
+E:\百度云下载\SAKURA-G配套U盘\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\bin\Debug\PS3000ACSConsole.pdb
+E:\百度云下载\SAKURA-G配套U盘\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.csprojAssemblyReference.cache
+E:\百度云下载\SAKURA-G配套U盘\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.csproj.CoreCompileInputs.cache
+E:\百度云下载\SAKURA-G配套U盘\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.exe
+E:\百度云下载\SAKURA-G配套U盘\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.pdb
+C:\Users\Administrator\Desktop\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\bin\Debug\PS3000ACSConsole.exe
+C:\Users\Administrator\Desktop\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\bin\Debug\PS3000ACSConsole.pdb
+C:\Users\Administrator\Desktop\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.exe
+C:\Users\Administrator\Desktop\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.pdb
+D:\C#调试\version2\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\bin\Debug\PS3000ACSConsole.exe
+D:\C#调试\version2\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\bin\Debug\PS3000ACSConsole.pdb
+D:\C#调试\version2\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.csprojAssemblyReference.cache
+D:\C#调试\version2\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.csproj.CoreCompileInputs.cache
+D:\C#调试\version2\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.exe
+D:\C#调试\version2\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.pdb
+C:\Users\lufux\Desktop\version5\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\bin\Debug\PS3000ACSConsole.exe
+C:\Users\lufux\Desktop\version5\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\bin\Debug\PS3000ACSConsole.pdb
+C:\Users\lufux\Desktop\version5\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.csprojAssemblyReference.cache
+C:\Users\lufux\Desktop\version5\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.csproj.CoreCompileInputs.cache
+C:\Users\lufux\Desktop\version5\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.exe
+C:\Users\lufux\Desktop\version5\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.pdb
+C:\Users\lufux\Desktop\version10_交替明文(一次固定一次随机)\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\bin\Debug\PS3000ACSConsole.exe
+C:\Users\lufux\Desktop\version10_交替明文(一次固定一次随机)\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\bin\Debug\PS3000ACSConsole.pdb
+C:\Users\lufux\Desktop\version10_交替明文(一次固定一次随机)\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.csprojAssemblyReference.cache
+C:\Users\lufux\Desktop\version10_交替明文(一次固定一次随机)\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.csproj.CoreCompileInputs.cache
+C:\Users\lufux\Desktop\version10_交替明文(一次固定一次随机)\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.exe
+C:\Users\lufux\Desktop\version10_交替明文(一次固定一次随机)\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.pdb
+C:\Users\lufux\Desktop\version11_交替明文(一次固定一次随机)\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\bin\Debug\PS3000ACSConsole.exe
+C:\Users\lufux\Desktop\version11_交替明文(一次固定一次随机)\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\bin\Debug\PS3000ACSConsole.pdb
+C:\Users\lufux\Desktop\version11_交替明文(一次固定一次随机)\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.csprojAssemblyReference.cache
+C:\Users\lufux\Desktop\version11_交替明文(一次固定一次随机)\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.csproj.CoreCompileInputs.cache
+C:\Users\lufux\Desktop\version11_交替明文(一次固定一次随机)\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.exe
+C:\Users\lufux\Desktop\version11_交替明文(一次固定一次随机)\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.pdb
+C:\Users\HuangXian\Desktop\版本11\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\bin\Debug\PS3000ACSConsole.exe
+C:\Users\HuangXian\Desktop\版本11\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\bin\Debug\PS3000ACSConsole.pdb
+C:\Users\HuangXian\Desktop\版本11\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.csprojAssemblyReference.cache
+C:\Users\HuangXian\Desktop\版本11\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.csproj.CoreCompileInputs.cache
+C:\Users\HuangXian\Desktop\版本11\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.exe
+C:\Users\HuangXian\Desktop\版本11\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.pdb
+C:\Users\HuangXian\Desktop\版本12\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\bin\Debug\PS3000ACSConsole.exe
+C:\Users\HuangXian\Desktop\版本12\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\bin\Debug\PS3000ACSConsole.pdb
+C:\Users\HuangXian\Desktop\版本12\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.csprojAssemblyReference.cache
+C:\Users\HuangXian\Desktop\版本12\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.csproj.CoreCompileInputs.cache
+C:\Users\HuangXian\Desktop\版本12\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.exe
+C:\Users\HuangXian\Desktop\版本12\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.pdb
+C:\Users\HuangXian\Desktop\AES_版本13\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\bin\Debug\PS3000ACSConsole.exe
+C:\Users\HuangXian\Desktop\AES_版本13\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\bin\Debug\PS3000ACSConsole.pdb
+C:\Users\HuangXian\Desktop\AES_版本13\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.csprojResolveAssemblyReference.cache
+C:\Users\HuangXian\Desktop\AES_版本13\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.exe
+C:\Users\HuangXian\Desktop\AES_版本13\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.pdb
+C:\Users\HuangXian\Desktop\C#AES\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\bin\Debug\PS3000ACSConsole.exe
+C:\Users\HuangXian\Desktop\C#AES\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\bin\Debug\PS3000ACSConsole.pdb
+C:\Users\HuangXian\Desktop\C#AES\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.csprojResolveAssemblyReference.cache
+C:\Users\HuangXian\Desktop\C#AES\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.exe
+C:\Users\HuangXian\Desktop\C#AES\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.pdb
+C:\Users\HuangXian\Desktop\C#AES_1\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\bin\Debug\PS3000ACSConsole.exe
+C:\Users\HuangXian\Desktop\C#AES_1\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\bin\Debug\PS3000ACSConsole.pdb
+C:\Users\HuangXian\Desktop\C#AES_1\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.csprojResolveAssemblyReference.cache
+C:\Users\HuangXian\Desktop\C#AES_1\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.exe
+C:\Users\HuangXian\Desktop\C#AES_1\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.pdb
+C:\Users\HuangXian\Desktop\C#AES_DrawPower\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\bin\Debug\PS3000ACSConsole.exe
+C:\Users\HuangXian\Desktop\C#AES_DrawPower\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\bin\Debug\PS3000ACSConsole.pdb
+C:\Users\HuangXian\Desktop\C#AES_DrawPower\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.csprojResolveAssemblyReference.cache
+C:\Users\HuangXian\Desktop\C#AES_DrawPower\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.exe
+C:\Users\HuangXian\Desktop\C#AES_DrawPower\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.pdb
+F:\附件8：数缘科技 - SAKURA-G开发板采波软件\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\bin\Debug\PS3000ACSConsole.exe
+F:\附件8：数缘科技 - SAKURA-G开发板采波软件\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\bin\Debug\PS3000ACSConsole.pdb
+F:\附件8：数缘科技 - SAKURA-G开发板采波软件\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.csprojAssemblyReference.cache
+F:\附件8：数缘科技 - SAKURA-G开发板采波软件\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.csproj.CoreCompileInputs.cache
+F:\附件8：数缘科技 - SAKURA-G开发板采波软件\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.exe
+F:\附件8：数缘科技 - SAKURA-G开发板采波软件\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.pdb
+E:\毕业整理\毕远桥毕业整理\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\bin\Debug\PS3000ACSConsole.exe.config
+E:\毕业整理\毕远桥毕业整理\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\bin\Debug\PS3000ACSConsole.exe
+E:\毕业整理\毕远桥毕业整理\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\bin\Debug\PS3000ACSConsole.pdb
+E:\毕业整理\毕远桥毕业整理\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.csproj.AssemblyReference.cache
+E:\毕业整理\毕远桥毕业整理\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.csproj.SuggestedBindingRedirects.cache
+E:\毕业整理\毕远桥毕业整理\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.csproj.CoreCompileInputs.cache
+E:\毕业整理\毕远桥毕业整理\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.exe
+E:\毕业整理\毕远桥毕业整理\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.pdb
+F:\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\bin\Debug\PS3000ACSConsole.exe.config
+F:\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\bin\Debug\PS3000ACSConsole.exe
+F:\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\bin\Debug\PS3000ACSConsole.pdb
+F:\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.csproj.AssemblyReference.cache
+F:\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.csproj.CoreCompileInputs.cache
+F:\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.exe
+F:\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.pdb

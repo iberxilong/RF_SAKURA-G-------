@@ -1,0 +1,559 @@
+E:\IC\my_study_code\My_Xilinx\sakura-g_aes_r2\SAKURA_Checker_AES_原版\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe
+E:\IC\my_study_code\My_Xilinx\sakura-g_aes_r2\SAKURA_Checker_AES_原版\SAKURA_Checker\bin\Debug\SAKURA_Checker.pdb
+E:\IC\my_study_code\My_Xilinx\sakura-g_aes_r2\SAKURA_Checker_AES_原版\SAKURA_Checker\bin\Debug\FTD2XX_NET.dll
+E:\IC\my_study_code\My_Xilinx\sakura-g_aes_r2\SAKURA_Checker_AES_原版\SAKURA_Checker\obj\Debug\ResolveAssemblyReference.cache
+E:\IC\my_study_code\My_Xilinx\sakura-g_aes_r2\SAKURA_Checker_AES_原版\SAKURA_Checker\obj\Debug\SAKURA_Checker.MainForm.resources
+E:\IC\my_study_code\My_Xilinx\sakura-g_aes_r2\SAKURA_Checker_AES_原版\SAKURA_Checker\obj\Debug\SAKURA_Checker.Properties.Resources.resources
+E:\IC\my_study_code\My_Xilinx\sakura-g_aes_r2\SAKURA_Checker_AES_原版\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+E:\IC\my_study_code\My_Xilinx\sakura-g_aes_r2\SAKURA_Checker_AES_原版\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+E:\IC\my_study_code\My_Xilinx\sakura-g_aes_r2\SAKURA_Checker_SM4_mask_20141216\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+E:\IC\my_study_code\My_Xilinx\sakura-g_aes_r2\SAKURA_Checker_SM4_mask_20141216\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+E:\IC\my_study_code\My_Xilinx\sakura-g_aes_r2\SAKURA_Checker_SM4_mask_20141216\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe
+E:\IC\my_study_code\My_Xilinx\sakura-g_aes_r2\SAKURA_Checker_SM4_mask_20141216\SAKURA_Checker\bin\Debug\SAKURA_Checker.pdb
+E:\IC\my_study_code\My_Xilinx\sakura-g_aes_r2\SAKURA_Checker_SM4_mask_20141216\SAKURA_Checker\bin\Debug\FTD2XX_NET.dll
+E:\IC\my_study_code\My_Xilinx\sakura-g_aes_r2\SAKURA_Checker_SM4_mask_20141216\SAKURA_Checker\obj\Debug\ResolveAssemblyReference.cache
+E:\IC\my_study_code\My_Xilinx\sakura-g_aes_r2\SAKURA_Checker_SM4_mask_20141216\SAKURA_Checker\obj\Debug\SAKURA_Checker.MainForm.resources
+E:\IC\my_study_code\My_Xilinx\sakura-g_aes_r2\SAKURA_Checker_SM4_mask_20141216\SAKURA_Checker\obj\Debug\SAKURA_Checker.Properties.Resources.resources
+E:\IC\my_study_code\My_Xilinx\sakura-g_aes_r2\SAKURA_Checker_SM4_mask_20141216\SAKURA_Checker\obj\Debug\ResGen.read.1.tlog
+E:\IC\my_study_code\My_Xilinx\sakura-g_aes_r2\SAKURA_Checker_SM4_mask_20141216\SAKURA_Checker\obj\Debug\ResGen.write.1.tlog
+E:\IC\my_study_code\My_SAKURA-G\00_SAKURA-G软件C#\SAKURA_Checker_SM4_mask_20141216\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+E:\IC\my_study_code\My_SAKURA-G\00_SAKURA-G软件C#\SAKURA_Checker_SM4_mask_20141216\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+E:\IC\my_study_code\My_SAKURA-G\00_SAKURA-G软件C#\SAKURA_Checker_SM4_mask_20141216\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe
+E:\IC\my_study_code\My_SAKURA-G\00_SAKURA-G软件C#\SAKURA_Checker_SM4_mask_20141216\SAKURA_Checker\bin\Debug\SAKURA_Checker.pdb
+E:\IC\my_study_code\My_SAKURA-G\00_SAKURA-G软件C#\SAKURA_Checker_SM4_mask_20141216\SAKURA_Checker\bin\Debug\FTD2XX_NET.dll
+E:\IC\my_study_code\My_SAKURA-G\00_SAKURA-G软件C#\SAKURA_Checker_SM4_mask_20141216\SAKURA_Checker\obj\Debug\ResolveAssemblyReference.cache
+E:\IC\my_study_code\My_SAKURA-G\00_SAKURA-G软件C#\SAKURA_Checker_SM4_mask_20141216\SAKURA_Checker\obj\Debug\SAKURA_Checker.MainForm.resources
+E:\IC\my_study_code\My_SAKURA-G\00_SAKURA-G软件C#\SAKURA_Checker_SM4_mask_20141216\SAKURA_Checker\obj\Debug\SAKURA_Checker.Properties.Resources.resources
+E:\IC\my_study_code\My_SAKURA-G\00_SAKURA-G软件C#\SAKURA_Checker_SM4_mask_20141216\SAKURA_Checker\obj\Debug\ResGen.read.1.tlog
+E:\IC\my_study_code\My_SAKURA-G\00_SAKURA-G软件C#\SAKURA_Checker_SM4_mask_20141216\SAKURA_Checker\obj\Debug\ResGen.write.1.tlog
+E:\IC\my_study_code\My_SAKURA-G\00_SAKURA-G_software_C#\SAKURA_Checker_SM4_mask_20141216\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+E:\IC\my_study_code\My_SAKURA-G\00_SAKURA-G_software_C#\SAKURA_Checker_SM4_mask_20141216\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+C:\Users\wanganl\Desktop\SAKURA-G使用说明\分组密码算法控制软件 for SAKURA-G\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+C:\Users\wanganl\Desktop\SAKURA-G使用说明\分组密码算法控制软件 for SAKURA-G\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+C:\Users\wanganl\Desktop\SAKURA-G使用说明\分组密码算法控制软件 for SAKURA-G\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe
+C:\Users\wanganl\Desktop\SAKURA-G使用说明\分组密码算法控制软件 for SAKURA-G\SAKURA_Checker\bin\Debug\SAKURA_Checker.pdb
+C:\Users\wanganl\Desktop\SAKURA-G使用说明\分组密码算法控制软件 for SAKURA-G\SAKURA_Checker\bin\Debug\FTD2XX_NET.dll
+C:\Users\wanganl\Desktop\SAKURA-G使用说明\分组密码算法控制软件 for SAKURA-G\SAKURA_Checker\obj\Debug\SAKURA_Checker.csprojResolveAssemblyReference.cache
+C:\Users\wanganl\Desktop\SAKURA-G使用说明\分组密码算法控制软件 for SAKURA-G\SAKURA_Checker\obj\Debug\SAKURA_Checker.MainForm.resources
+C:\Users\wanganl\Desktop\SAKURA-G使用说明\分组密码算法控制软件 for SAKURA-G\SAKURA_Checker\obj\Debug\SAKURA_Checker.Properties.Resources.resources
+C:\Users\wanganl\Desktop\SAKURA-G使用说明\分组密码算法控制软件 for SAKURA-G\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\光盘：SAKURA-G使用说明\附件8：数缘科技 - 分组密码算法控制软件 for SAKURA-G\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+C:\Users\Administrator\Desktop\光盘：SAKURA-G使用说明\附件8：数缘科技 - 分组密码算法控制软件 for SAKURA-G\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+C:\Users\Administrator\Desktop\光盘：SAKURA-G使用说明\附件8：数缘科技 - 分组密码算法控制软件 for SAKURA-G\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe
+C:\Users\Administrator\Desktop\光盘：SAKURA-G使用说明\附件8：数缘科技 - 分组密码算法控制软件 for SAKURA-G\SAKURA_Checker\bin\Debug\SAKURA_Checker.pdb
+C:\Users\Administrator\Desktop\光盘：SAKURA-G使用说明\附件8：数缘科技 - 分组密码算法控制软件 for SAKURA-G\SAKURA_Checker\bin\Debug\FTD2XX_NET.dll
+C:\Users\Administrator\Desktop\光盘：SAKURA-G使用说明\附件8：数缘科技 - 分组密码算法控制软件 for SAKURA-G\SAKURA_Checker\obj\Debug\SAKURA_Checker.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\光盘：SAKURA-G使用说明\附件8：数缘科技 - 分组密码算法控制软件 for SAKURA-G\SAKURA_Checker\obj\Debug\SAKURA_Checker.MainForm.resources
+C:\Users\Administrator\Desktop\光盘：SAKURA-G使用说明\附件8：数缘科技 - 分组密码算法控制软件 for SAKURA-G\SAKURA_Checker\obj\Debug\SAKURA_Checker.Properties.Resources.resources
+C:\Users\Administrator\Desktop\光盘：SAKURA-G使用说明\附件8：数缘科技 - 分组密码算法控制软件 for SAKURA-G\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.GenerateResource.Cache
+G:\SAKURA-Pico实验源码（未修改）\附件8：数缘科技 - 分组密码算法控制软件 for SAKURA-G\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+G:\SAKURA-Pico实验源码（未修改）\附件8：数缘科技 - 分组密码算法控制软件 for SAKURA-G\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+G:\SAKURA-Pico实验源码（未修改）\附件8：数缘科技 - 分组密码算法控制软件 for SAKURA-G\SAKURA_Checker\obj\Debug\SAKURA_Checker.csprojResolveAssemblyReference.cache
+G:\SAKURA-Pico实验源码（未修改）\附件8：数缘科技 - 分组密码算法控制软件 for SAKURA-G\SAKURA_Checker\obj\Debug\SAKURA_Checker.MainForm.resources
+G:\SAKURA-Pico实验源码（未修改）\附件8：数缘科技 - 分组密码算法控制软件 for SAKURA-G\SAKURA_Checker\obj\Debug\SAKURA_Checker.Properties.Resources.resources
+G:\SAKURA-Pico实验源码（未修改）\附件8：数缘科技 - 分组密码算法控制软件 for SAKURA-G\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.GenerateResource.Cache
+G:\SAKURA-Pico实验源码（未修改）\(1)附件8：数缘科技 - 分组密码算法控制软件 for SAKURA-G\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+G:\SAKURA-Pico实验源码（未修改）\(1)附件8：数缘科技 - 分组密码算法控制软件 for SAKURA-G\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+G:\SAKURA-Pico实验源码（未修改）\(1)附件8：数缘科技 - 分组密码算法控制软件 for SAKURA-G\SAKURA_Checker\obj\Debug\SAKURA_Checker.csprojResolveAssemblyReference.cache
+G:\SAKURA-Pico实验源码（未修改）\(1)附件8：数缘科技 - 分组密码算法控制软件 for SAKURA-G\SAKURA_Checker\obj\Debug\SAKURA_Checker.MainForm.resources
+G:\SAKURA-Pico实验源码（未修改）\(1)附件8：数缘科技 - 分组密码算法控制软件 for SAKURA-G\SAKURA_Checker\obj\Debug\SAKURA_Checker.Properties.Resources.resources
+G:\SAKURA-Pico实验源码（未修改）\(1)附件8：数缘科技 - 分组密码算法控制软件 for SAKURA-G\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.GenerateResource.Cache
+C:\Users\zb\Desktop\(1)附件8：数缘科技 - 分组密码算法控制软件 for SAKURA-G\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+C:\Users\zb\Desktop\(1)附件8：数缘科技 - 分组密码算法控制软件 for SAKURA-G\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+C:\Users\zb\Desktop\(1)附件8：数缘科技 - 分组密码算法控制软件 for SAKURA-G\SAKURA_Checker\obj\Debug\SAKURA_Checker.csprojResolveAssemblyReference.cache
+C:\Users\zb\Desktop\(1)附件8：数缘科技 - 分组密码算法控制软件 for SAKURA-G\SAKURA_Checker\obj\Debug\SAKURA_Checker.MainForm.resources
+C:\Users\zb\Desktop\(1)附件8：数缘科技 - 分组密码算法控制软件 for SAKURA-G\SAKURA_Checker\obj\Debug\SAKURA_Checker.Properties.Resources.resources
+C:\Users\zb\Desktop\(1)附件8：数缘科技 - 分组密码算法控制软件 for SAKURA-G\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.GenerateResource.Cache
+C:\Users\zb\Desktop\(1)附件8：数缘科技 - 分组密码算法控制软件 for SAKURA-G\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe.config
+C:\Users\zb\Desktop\(1)附件8：数缘科技 - 分组密码算法控制软件 for SAKURA-G\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe
+C:\Users\zb\Desktop\(1)附件8：数缘科技 - 分组密码算法控制软件 for SAKURA-G\SAKURA_Checker\bin\Debug\SAKURA_Checker.pdb
+C:\Users\zb\Desktop\(1)附件8：数缘科技 - 分组密码算法控制软件 for SAKURA-G\SAKURA_Checker\bin\Debug\FTD2XX_NET.dll
+C:\Users\zb\Desktop\可独立成功运行的SAKURA程序\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe.config
+C:\Users\zb\Desktop\可独立成功运行的SAKURA程序\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+C:\Users\zb\Desktop\可独立成功运行的SAKURA程序\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+C:\Users\zb\Desktop\可独立成功运行的SAKURA程序\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe
+C:\Users\zb\Desktop\可独立成功运行的SAKURA程序\SAKURA_Checker\bin\Debug\SAKURA_Checker.pdb
+C:\Users\zb\Desktop\可独立成功运行的SAKURA程序\SAKURA_Checker\bin\Debug\FTD2XX_NET.dll
+C:\Users\zb\Desktop\可独立成功运行的SAKURA程序\SAKURA_Checker\bin\Debug\PS3000ACSConsole.dll
+C:\Users\zb\Desktop\可独立成功运行的SAKURA程序\SAKURA_Checker\bin\Debug\PS3000ACSConsole.pdb
+C:\Users\zb\Desktop\可独立成功运行的SAKURA程序\SAKURA_Checker\obj\Debug\SAKURA_Checker.csprojResolveAssemblyReference.cache
+C:\Users\zb\Desktop\可独立成功运行的SAKURA程序\SAKURA_Checker\obj\Debug\SAKURA_Checker.MainForm.resources
+C:\Users\zb\Desktop\可独立成功运行的SAKURA程序\SAKURA_Checker\obj\Debug\SAKURA_Checker.Properties.Resources.resources
+C:\Users\zb\Desktop\可独立成功运行的SAKURA程序\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.GenerateResource.Cache
+C:\Users\zb\Desktop\zb_Sakura_Pico\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe.config
+C:\Users\zb\Desktop\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+C:\Users\zb\Desktop\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+C:\Users\zb\Desktop\zb_Sakura_Pico\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe
+C:\Users\zb\Desktop\zb_Sakura_Pico\SAKURA_Checker\bin\Debug\SAKURA_Checker.pdb
+C:\Users\zb\Desktop\zb_Sakura_Pico\SAKURA_Checker\bin\Debug\FTD2XX_NET.dll
+C:\Users\zb\Desktop\zb_Sakura_Pico\SAKURA_Checker\bin\Debug\PS3000ACSConsole.exe
+C:\Users\zb\Desktop\zb_Sakura_Pico\SAKURA_Checker\bin\Debug\PS3000ACSConsole.pdb
+C:\Users\zb\Desktop\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\SAKURA_Checker.csprojResolveAssemblyReference.cache
+C:\Users\zb\Desktop\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\SAKURA_Checker.MainForm.resources
+C:\Users\zb\Desktop\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\SAKURA_Checker.Properties.Resources.resources
+C:\Users\zb\Desktop\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.GenerateResource.Cache
+E:\PICO项目总资料\结项\zb_Sakura_Pico\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe.config
+E:\PICO项目总资料\结项\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+E:\PICO项目总资料\结项\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+E:\PICO项目总资料\结项\zb_Sakura_Pico\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe
+E:\PICO项目总资料\结项\zb_Sakura_Pico\SAKURA_Checker\bin\Debug\SAKURA_Checker.pdb
+E:\PICO项目总资料\结项\zb_Sakura_Pico\SAKURA_Checker\bin\Debug\FTD2XX_NET.dll
+E:\PICO项目总资料\结项\zb_Sakura_Pico\SAKURA_Checker\bin\Debug\PS3000ACSConsole.exe
+E:\PICO项目总资料\结项\zb_Sakura_Pico\SAKURA_Checker\bin\Debug\PS3000ACSConsole.pdb
+E:\PICO项目总资料\结项\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\SAKURA_Checker.csprojResolveAssemblyReference.cache
+E:\PICO项目总资料\结项\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\SAKURA_Checker.MainForm.resources
+E:\PICO项目总资料\结项\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\SAKURA_Checker.Properties.Resources.resources
+E:\PICO项目总资料\结项\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.GenerateResource.Cache
+C:\Users\sxd\Desktop\zb_Sakura_Pico\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe.config
+C:\Users\sxd\Desktop\zb_Sakura_Pico\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe
+C:\Users\sxd\Desktop\zb_Sakura_Pico\SAKURA_Checker\bin\Debug\SAKURA_Checker.pdb
+C:\Users\sxd\Desktop\zb_Sakura_Pico\SAKURA_Checker\bin\Debug\FTD2XX_NET.dll
+C:\Users\sxd\Desktop\zb_Sakura_Pico\SAKURA_Checker\bin\Debug\PS3000ACSConsole.exe
+C:\Users\sxd\Desktop\zb_Sakura_Pico\SAKURA_Checker\bin\Debug\PS3000ACSConsole.pdb
+C:\Users\sxd\Desktop\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\SAKURA_Checker.csprojResolveAssemblyReference.cache
+C:\Users\sxd\Desktop\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\SAKURA_Checker.MainForm.resources
+C:\Users\sxd\Desktop\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\SAKURA_Checker.Properties.Resources.resources
+C:\Users\sxd\Desktop\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.GenerateResource.Cache
+C:\Users\sxd\Desktop\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.CoreCompileInputs.cache
+C:\Users\sxd\Desktop\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+C:\Users\sxd\Desktop\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+C:\Users\sxd\Desktop\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\SAKURA_Checker.chart2.resources
+C:\Users\Administrator\Desktop\zb_Sakura_Pico\zb_Sakura_Pico\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe.config
+C:\Users\Administrator\Desktop\zb_Sakura_Pico\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+C:\Users\Administrator\Desktop\zb_Sakura_Pico\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+C:\Users\Administrator\Desktop\zb_Sakura_Pico\zb_Sakura_Pico\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe
+C:\Users\Administrator\Desktop\zb_Sakura_Pico\zb_Sakura_Pico\SAKURA_Checker\bin\Debug\SAKURA_Checker.pdb
+C:\Users\Administrator\Desktop\zb_Sakura_Pico\zb_Sakura_Pico\SAKURA_Checker\bin\Debug\FTD2XX_NET.dll
+C:\Users\Administrator\Desktop\zb_Sakura_Pico\zb_Sakura_Pico\SAKURA_Checker\bin\Debug\PS3000ACSConsole.exe
+C:\Users\Administrator\Desktop\zb_Sakura_Pico\zb_Sakura_Pico\SAKURA_Checker\bin\Debug\PS3000ACSConsole.pdb
+C:\Users\Administrator\Desktop\zb_Sakura_Pico\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\SAKURA_Checker.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\zb_Sakura_Pico\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\zb_Sakura_Pico\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\MathMagic.MainForm.resources
+C:\Users\Administrator\Desktop\zb_Sakura_Pico\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\MathMagic.Properties.Resources.resources
+C:\Users\sxd\Desktop\qw\zb_Sakura_Pico\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe.config
+C:\Users\sxd\Desktop\qw\zb_Sakura_Pico\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe
+C:\Users\sxd\Desktop\qw\zb_Sakura_Pico\SAKURA_Checker\bin\Debug\SAKURA_Checker.pdb
+C:\Users\sxd\Desktop\qw\zb_Sakura_Pico\SAKURA_Checker\bin\Debug\FTD2XX_NET.dll
+C:\Users\sxd\Desktop\qw\zb_Sakura_Pico\SAKURA_Checker\bin\Debug\PS3000ACSConsole.exe
+C:\Users\sxd\Desktop\qw\zb_Sakura_Pico\SAKURA_Checker\bin\Debug\PS3000ACSConsole.pdb
+C:\Users\sxd\Desktop\qw\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\SAKURA_Checker.csprojResolveAssemblyReference.cache
+C:\Users\sxd\Desktop\qw\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\MathMagic.MainForm.resources
+C:\Users\sxd\Desktop\qw\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\MathMagic.Properties.Resources.resources
+C:\Users\sxd\Desktop\qw\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.GenerateResource.Cache
+C:\Users\sxd\Desktop\qw\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.CoreCompileInputs.cache
+C:\Users\sxd\Desktop\qw\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+C:\Users\sxd\Desktop\qw\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+C:\Users\sxd\Desktop\开发\qw\zb_Sakura_Pico\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe.config
+C:\Users\sxd\Desktop\开发\qw\zb_Sakura_Pico\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe
+C:\Users\sxd\Desktop\开发\qw\zb_Sakura_Pico\SAKURA_Checker\bin\Debug\SAKURA_Checker.pdb
+C:\Users\sxd\Desktop\开发\qw\zb_Sakura_Pico\SAKURA_Checker\bin\Debug\FTD2XX_NET.dll
+C:\Users\sxd\Desktop\开发\qw\zb_Sakura_Pico\SAKURA_Checker\bin\Debug\PS3000ACSConsole.exe
+C:\Users\sxd\Desktop\开发\qw\zb_Sakura_Pico\SAKURA_Checker\bin\Debug\PS3000ACSConsole.pdb
+C:\Users\sxd\Desktop\开发\qw\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\SAKURA_Checker.csprojResolveAssemblyReference.cache
+C:\Users\sxd\Desktop\开发\qw\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\MathMagic.MainForm.resources
+C:\Users\sxd\Desktop\开发\qw\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\MathMagic.Properties.Resources.resources
+C:\Users\sxd\Desktop\开发\qw\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.GenerateResource.Cache
+C:\Users\sxd\Desktop\开发\qw\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.CoreCompileInputs.cache
+C:\Users\sxd\Desktop\开发\qw\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+C:\Users\sxd\Desktop\开发\qw\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+C:\Users\sxd\Desktop\开发\ultimate\zb_Sakura_Pico\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe.config
+C:\Users\sxd\Desktop\开发\ultimate\zb_Sakura_Pico\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe
+C:\Users\sxd\Desktop\开发\ultimate\zb_Sakura_Pico\SAKURA_Checker\bin\Debug\SAKURA_Checker.pdb
+C:\Users\sxd\Desktop\开发\ultimate\zb_Sakura_Pico\SAKURA_Checker\bin\Debug\FTD2XX_NET.dll
+C:\Users\sxd\Desktop\开发\ultimate\zb_Sakura_Pico\SAKURA_Checker\bin\Debug\PS3000ACSConsole.exe
+C:\Users\sxd\Desktop\开发\ultimate\zb_Sakura_Pico\SAKURA_Checker\bin\Debug\PS3000ACSConsole.pdb
+C:\Users\sxd\Desktop\开发\ultimate\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\SAKURA_Checker.csprojResolveAssemblyReference.cache
+C:\Users\sxd\Desktop\开发\ultimate\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\MathMagic.MainForm.resources
+C:\Users\sxd\Desktop\开发\ultimate\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\MathMagic.Properties.Resources.resources
+C:\Users\sxd\Desktop\开发\ultimate\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.GenerateResource.Cache
+C:\Users\sxd\Desktop\开发\ultimate\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.CoreCompileInputs.cache
+C:\Users\sxd\Desktop\开发\ultimate\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+C:\Users\sxd\Desktop\开发\ultimate\zb_Sakura_Pico\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+C:\Users\wanganl\Desktop\沈晓东的SAKURA-G\ultimate3\Sakura_G_Mathmagic\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe.config
+C:\Users\wanganl\Desktop\沈晓东的SAKURA-G\ultimate3\Sakura_G_Mathmagic\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+C:\Users\wanganl\Desktop\沈晓东的SAKURA-G\ultimate3\Sakura_G_Mathmagic\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+C:\Users\wanganl\Desktop\沈晓东的SAKURA-G\ultimate3\Sakura_G_Mathmagic\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe
+C:\Users\wanganl\Desktop\沈晓东的SAKURA-G\ultimate3\Sakura_G_Mathmagic\SAKURA_Checker\bin\Debug\SAKURA_Checker.pdb
+C:\Users\wanganl\Desktop\沈晓东的SAKURA-G\ultimate3\Sakura_G_Mathmagic\SAKURA_Checker\bin\Debug\FTD2XX_NET.dll
+C:\Users\wanganl\Desktop\沈晓东的SAKURA-G\ultimate3\Sakura_G_Mathmagic\SAKURA_Checker\bin\Debug\PS3000ACSConsole.exe
+C:\Users\wanganl\Desktop\沈晓东的SAKURA-G\ultimate3\Sakura_G_Mathmagic\SAKURA_Checker\bin\Debug\PS3000ACSConsole.pdb
+C:\Users\wanganl\Desktop\沈晓东的SAKURA-G\ultimate3\Sakura_G_Mathmagic\SAKURA_Checker\obj\Debug\SAKURA_Checker.csprojResolveAssemblyReference.cache
+C:\Users\wanganl\Desktop\沈晓东的SAKURA-G\ultimate3\Sakura_G_Mathmagic\SAKURA_Checker\obj\Debug\MathMagic.MainForm.resources
+C:\Users\wanganl\Desktop\沈晓东的SAKURA-G\ultimate3\Sakura_G_Mathmagic\SAKURA_Checker\obj\Debug\MathMagic.Properties.Resources.resources
+C:\Users\wanganl\Desktop\沈晓东的SAKURA-G\ultimate3\Sakura_G_Mathmagic\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.GenerateResource.Cache
+C:\Users\wanganl\Desktop\沈晓东的SAKURA-G\上位机VC程序：SAKURA-G\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe.config
+C:\Users\wanganl\Desktop\沈晓东的SAKURA-G\上位机VC程序：SAKURA-G\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+C:\Users\wanganl\Desktop\沈晓东的SAKURA-G\上位机VC程序：SAKURA-G\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+C:\Users\wanganl\Desktop\沈晓东的SAKURA-G\上位机VC程序：SAKURA-G\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe
+C:\Users\wanganl\Desktop\沈晓东的SAKURA-G\上位机VC程序：SAKURA-G\SAKURA_Checker\bin\Debug\SAKURA_Checker.pdb
+C:\Users\wanganl\Desktop\沈晓东的SAKURA-G\上位机VC程序：SAKURA-G\SAKURA_Checker\bin\Debug\FTD2XX_NET.dll
+C:\Users\wanganl\Desktop\沈晓东的SAKURA-G\上位机VC程序：SAKURA-G\SAKURA_Checker\bin\Debug\PS3000ACSConsole.exe
+C:\Users\wanganl\Desktop\沈晓东的SAKURA-G\上位机VC程序：SAKURA-G\SAKURA_Checker\bin\Debug\PS3000ACSConsole.pdb
+C:\Users\wanganl\Desktop\沈晓东的SAKURA-G\上位机VC程序：SAKURA-G\SAKURA_Checker\obj\Debug\SAKURA_Checker.csprojResolveAssemblyReference.cache
+C:\Users\wanganl\Desktop\沈晓东的SAKURA-G\上位机VC程序：SAKURA-G\SAKURA_Checker\obj\Debug\MathMagic.MainForm.resources
+C:\Users\wanganl\Desktop\沈晓东的SAKURA-G\上位机VC程序：SAKURA-G\SAKURA_Checker\obj\Debug\MathMagic.Properties.Resources.resources
+C:\Users\wanganl\Desktop\沈晓东的SAKURA-G\上位机VC程序：SAKURA-G\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.GenerateResource.Cache
+C:\Users\wanganl\Desktop\SAKURA-G光盘根目录\附件8：上位机VC程序：SAKURA-G\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe.config
+C:\Users\wanganl\Desktop\SAKURA-G光盘根目录\附件8：上位机VC程序：SAKURA-G\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+C:\Users\wanganl\Desktop\SAKURA-G光盘根目录\附件8：上位机VC程序：SAKURA-G\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+C:\Users\wanganl\Desktop\SAKURA-G光盘根目录\附件8：SAKURA-G开发板采波软件 - 数缘科技\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe.config
+C:\Users\wanganl\Desktop\SAKURA-G光盘根目录\附件8：SAKURA-G开发板采波软件 - 数缘科技\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+C:\Users\wanganl\Desktop\SAKURA-G光盘根目录\附件8：SAKURA-G开发板采波软件 - 数缘科技\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+C:\Users\sxd\Desktop\SAKURA-G光盘目录\附件8：SAKURA-G开发板采波软件 - 数缘科技\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe.config
+C:\Users\sxd\Desktop\SAKURA-G光盘目录\附件8：SAKURA-G开发板采波软件 - 数缘科技\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe
+C:\Users\sxd\Desktop\SAKURA-G光盘目录\附件8：SAKURA-G开发板采波软件 - 数缘科技\SAKURA_Checker\bin\Debug\SAKURA_Checker.pdb
+C:\Users\sxd\Desktop\SAKURA-G光盘目录\附件8：SAKURA-G开发板采波软件 - 数缘科技\SAKURA_Checker\bin\Debug\FTD2XX_NET.dll
+C:\Users\sxd\Desktop\SAKURA-G光盘目录\附件8：SAKURA-G开发板采波软件 - 数缘科技\SAKURA_Checker\bin\Debug\PS3000ACSConsole.exe
+C:\Users\sxd\Desktop\SAKURA-G光盘目录\附件8：SAKURA-G开发板采波软件 - 数缘科技\SAKURA_Checker\bin\Debug\PS3000ACSConsole.pdb
+C:\Users\sxd\Desktop\SAKURA-G光盘目录\附件8：SAKURA-G开发板采波软件 - 数缘科技\SAKURA_Checker\obj\Debug\SAKURA_Checker.csprojResolveAssemblyReference.cache
+C:\Users\sxd\Desktop\SAKURA-G光盘目录\附件8：SAKURA-G开发板采波软件 - 数缘科技\SAKURA_Checker\obj\Debug\MathMagic.MainForm.resources
+C:\Users\sxd\Desktop\SAKURA-G光盘目录\附件8：SAKURA-G开发板采波软件 - 数缘科技\SAKURA_Checker\obj\Debug\MathMagic.Properties.Resources.resources
+C:\Users\sxd\Desktop\SAKURA-G光盘目录\附件8：SAKURA-G开发板采波软件 - 数缘科技\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.GenerateResource.Cache
+C:\Users\sxd\Desktop\SAKURA-G光盘目录\附件8：SAKURA-G开发板采波软件 - 数缘科技\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.CoreCompileInputs.cache
+C:\Users\sxd\Desktop\SAKURA-G光盘目录\附件8：SAKURA-G开发板采波软件 - 数缘科技\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+C:\Users\sxd\Desktop\SAKURA-G光盘目录\附件8：SAKURA-G开发板采波软件 - 数缘科技\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+C:\Users\sxd\Desktop\SAKURA-G光盘目录\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe.config
+C:\Users\sxd\Desktop\SAKURA-G光盘目录\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe
+C:\Users\sxd\Desktop\SAKURA-G光盘目录\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.pdb
+C:\Users\sxd\Desktop\SAKURA-G光盘目录\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\FTD2XX_NET.dll
+C:\Users\sxd\Desktop\SAKURA-G光盘目录\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.exe
+C:\Users\sxd\Desktop\SAKURA-G光盘目录\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.pdb
+C:\Users\sxd\Desktop\SAKURA-G光盘目录\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csprojResolveAssemblyReference.cache
+C:\Users\sxd\Desktop\SAKURA-G光盘目录\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.MainForm.resources
+C:\Users\sxd\Desktop\SAKURA-G光盘目录\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.Properties.Resources.resources
+C:\Users\sxd\Desktop\SAKURA-G光盘目录\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.GenerateResource.Cache
+C:\Users\sxd\Desktop\SAKURA-G光盘目录\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.CoreCompileInputs.cache
+C:\Users\sxd\Desktop\SAKURA-G光盘目录\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+C:\Users\sxd\Desktop\SAKURA-G光盘目录\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+C:\Users\sxd\Desktop\归档1\SAKURA-G光盘目录\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe.config
+C:\Users\sxd\Desktop\归档1\SAKURA-G光盘目录\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe
+C:\Users\sxd\Desktop\归档1\SAKURA-G光盘目录\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.pdb
+C:\Users\sxd\Desktop\归档1\SAKURA-G光盘目录\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\FTD2XX_NET.dll
+C:\Users\sxd\Desktop\归档1\SAKURA-G光盘目录\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.exe
+C:\Users\sxd\Desktop\归档1\SAKURA-G光盘目录\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.pdb
+C:\Users\sxd\Desktop\归档1\SAKURA-G光盘目录\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csprojResolveAssemblyReference.cache
+C:\Users\sxd\Desktop\归档1\SAKURA-G光盘目录\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.MainForm.resources
+C:\Users\sxd\Desktop\归档1\SAKURA-G光盘目录\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.Properties.Resources.resources
+C:\Users\sxd\Desktop\归档1\SAKURA-G光盘目录\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.GenerateResource.Cache
+C:\Users\sxd\Desktop\归档1\SAKURA-G光盘目录\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.CoreCompileInputs.cache
+C:\Users\sxd\Desktop\归档1\SAKURA-G光盘目录\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+C:\Users\sxd\Desktop\归档1\SAKURA-G光盘目录\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+C:\Users\sxd\Desktop\新建文件夹 (2)\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe.config
+C:\Users\sxd\Desktop\新建文件夹 (2)\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe
+C:\Users\sxd\Desktop\新建文件夹 (2)\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.pdb
+C:\Users\sxd\Desktop\新建文件夹 (2)\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\FTD2XX_NET.dll
+C:\Users\sxd\Desktop\新建文件夹 (2)\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.exe
+C:\Users\sxd\Desktop\新建文件夹 (2)\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.pdb
+C:\Users\sxd\Desktop\新建文件夹 (2)\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csprojResolveAssemblyReference.cache
+C:\Users\sxd\Desktop\新建文件夹 (2)\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.MainForm.resources
+C:\Users\sxd\Desktop\新建文件夹 (2)\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.Properties.Resources.resources
+C:\Users\sxd\Desktop\新建文件夹 (2)\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.GenerateResource.Cache
+C:\Users\sxd\Desktop\新建文件夹 (2)\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.CoreCompileInputs.cache
+C:\Users\sxd\Desktop\新建文件夹 (2)\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+C:\Users\sxd\Desktop\新建文件夹 (2)\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+E:\百度云下载\SAKURA-G配套U盘\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe.config
+E:\百度云下载\SAKURA-G配套U盘\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe
+E:\百度云下载\SAKURA-G配套U盘\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.pdb
+E:\百度云下载\SAKURA-G配套U盘\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\FTD2XX_NET.dll
+E:\百度云下载\SAKURA-G配套U盘\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.exe
+E:\百度云下载\SAKURA-G配套U盘\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.pdb
+E:\百度云下载\SAKURA-G配套U盘\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csprojAssemblyReference.cache
+E:\百度云下载\SAKURA-G配套U盘\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.MainForm.resources
+E:\百度云下载\SAKURA-G配套U盘\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.Properties.Resources.resources
+E:\百度云下载\SAKURA-G配套U盘\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.GenerateResource.cache
+E:\百度云下载\SAKURA-G配套U盘\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.CoreCompileInputs.cache
+E:\百度云下载\SAKURA-G配套U盘\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.CopyComplete
+E:\百度云下载\SAKURA-G配套U盘\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+E:\百度云下载\SAKURA-G配套U盘\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+C:\Users\Administrator\Desktop\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe.config
+C:\Users\Administrator\Desktop\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+C:\Users\Administrator\Desktop\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+C:\Users\Administrator\Desktop\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe
+C:\Users\Administrator\Desktop\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.pdb
+C:\Users\Administrator\Desktop\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\FTD2XX_NET.dll
+C:\Users\Administrator\Desktop\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.exe
+C:\Users\Administrator\Desktop\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.pdb
+C:\Users\Administrator\Desktop\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.MainForm.resources
+C:\Users\Administrator\Desktop\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.Properties.Resources.resources
+C:\Users\Administrator\Desktop\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.ResolveComReference.cache
+D:\C#调试\version2\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe.config
+D:\C#调试\version2\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe
+D:\C#调试\version2\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.pdb
+D:\C#调试\version2\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\FTD2XX_NET.dll
+D:\C#调试\version2\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.exe
+D:\C#调试\version2\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.pdb
+D:\C#调试\version2\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csprojAssemblyReference.cache
+D:\C#调试\version2\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.ResolveComReference.cache
+D:\C#调试\version2\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.MainForm.resources
+D:\C#调试\version2\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.Properties.Resources.resources
+D:\C#调试\version2\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.GenerateResource.cache
+D:\C#调试\version2\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.CoreCompileInputs.cache
+D:\C#调试\version2\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.CopyComplete
+D:\C#调试\version2\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+D:\C#调试\version2\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+C:\Users\lufux\Desktop\version2\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe.config
+C:\Users\lufux\Desktop\version2\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe
+C:\Users\lufux\Desktop\version2\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.pdb
+C:\Users\lufux\Desktop\version2\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\FTD2XX_NET.dll
+C:\Users\lufux\Desktop\version2\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.exe
+C:\Users\lufux\Desktop\version2\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.pdb
+C:\Users\lufux\Desktop\version2\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csprojAssemblyReference.cache
+C:\Users\lufux\Desktop\version2\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.ResolveComReference.cache
+C:\Users\lufux\Desktop\version2\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.MainForm.resources
+C:\Users\lufux\Desktop\version2\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.Properties.Resources.resources
+C:\Users\lufux\Desktop\version2\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.GenerateResource.cache
+C:\Users\lufux\Desktop\version2\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.CoreCompileInputs.cache
+C:\Users\lufux\Desktop\version2\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.CopyComplete
+C:\Users\lufux\Desktop\version2\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+C:\Users\lufux\Desktop\version2\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+C:\Users\Administrator\Desktop\version4\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe.config
+C:\Users\Administrator\Desktop\version4\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\version4\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+C:\Users\Administrator\Desktop\version4\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+C:\Users\Administrator\Desktop\version4\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe
+C:\Users\Administrator\Desktop\version4\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.pdb
+C:\Users\Administrator\Desktop\version4\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\FTD2XX_NET.dll
+C:\Users\Administrator\Desktop\version4\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.exe
+C:\Users\Administrator\Desktop\version4\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.pdb
+C:\Users\Administrator\Desktop\version4\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\version4\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.MainForm.resources
+C:\Users\Administrator\Desktop\version4\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.Properties.Resources.resources
+C:\Users\Administrator\Desktop\version4\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.GenerateResource.Cache
+C:\Users\lufux\Desktop\version5\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe.config
+C:\Users\lufux\Desktop\version5\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe
+C:\Users\lufux\Desktop\version5\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.pdb
+C:\Users\lufux\Desktop\version5\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\FTD2XX_NET.dll
+C:\Users\lufux\Desktop\version5\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.exe
+C:\Users\lufux\Desktop\version5\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.pdb
+C:\Users\lufux\Desktop\version5\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csprojAssemblyReference.cache
+C:\Users\lufux\Desktop\version5\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.ResolveComReference.cache
+C:\Users\lufux\Desktop\version5\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.MainForm.resources
+C:\Users\lufux\Desktop\version5\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.Properties.Resources.resources
+C:\Users\lufux\Desktop\version5\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.GenerateResource.cache
+C:\Users\lufux\Desktop\version5\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.CoreCompileInputs.cache
+C:\Users\lufux\Desktop\version5\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.CopyComplete
+C:\Users\lufux\Desktop\version5\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+C:\Users\lufux\Desktop\version5\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+C:\Users\lufux\Desktop\version10_交替明文(一次固定一次随机)\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe.config
+C:\Users\lufux\Desktop\version10_交替明文(一次固定一次随机)\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe
+C:\Users\lufux\Desktop\version10_交替明文(一次固定一次随机)\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.pdb
+C:\Users\lufux\Desktop\version10_交替明文(一次固定一次随机)\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\FTD2XX_NET.dll
+C:\Users\lufux\Desktop\version10_交替明文(一次固定一次随机)\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.exe
+C:\Users\lufux\Desktop\version10_交替明文(一次固定一次随机)\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.pdb
+C:\Users\lufux\Desktop\version10_交替明文(一次固定一次随机)\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csprojAssemblyReference.cache
+C:\Users\lufux\Desktop\version10_交替明文(一次固定一次随机)\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.ResolveComReference.cache
+C:\Users\lufux\Desktop\version10_交替明文(一次固定一次随机)\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.MainForm.resources
+C:\Users\lufux\Desktop\version10_交替明文(一次固定一次随机)\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.Properties.Resources.resources
+C:\Users\lufux\Desktop\version10_交替明文(一次固定一次随机)\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.GenerateResource.cache
+C:\Users\lufux\Desktop\version10_交替明文(一次固定一次随机)\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.CoreCompileInputs.cache
+C:\Users\lufux\Desktop\version10_交替明文(一次固定一次随机)\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.CopyComplete
+C:\Users\lufux\Desktop\version10_交替明文(一次固定一次随机)\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+C:\Users\lufux\Desktop\version10_交替明文(一次固定一次随机)\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+C:\Users\lufux\Desktop\version11_交替明文(一次固定一次随机)\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csprojAssemblyReference.cache
+C:\Users\lufux\Desktop\version11_交替明文(一次固定一次随机)\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.ResolveComReference.cache
+C:\Users\lufux\Desktop\version11_交替明文(一次固定一次随机)\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.MainForm.resources
+C:\Users\lufux\Desktop\version11_交替明文(一次固定一次随机)\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.Properties.Resources.resources
+C:\Users\lufux\Desktop\version11_交替明文(一次固定一次随机)\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.GenerateResource.cache
+C:\Users\lufux\Desktop\version11_交替明文(一次固定一次随机)\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.CoreCompileInputs.cache
+C:\Users\lufux\Desktop\version11_交替明文(一次固定一次随机)\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+C:\Users\lufux\Desktop\version11_交替明文(一次固定一次随机)\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+C:\Users\lufux\Desktop\version11_交替明文(一次固定一次随机)\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe.config
+C:\Users\lufux\Desktop\version11_交替明文(一次固定一次随机)\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe
+C:\Users\lufux\Desktop\version11_交替明文(一次固定一次随机)\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.pdb
+C:\Users\lufux\Desktop\version11_交替明文(一次固定一次随机)\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\FTD2XX_NET.dll
+C:\Users\lufux\Desktop\version11_交替明文(一次固定一次随机)\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.exe
+C:\Users\lufux\Desktop\version11_交替明文(一次固定一次随机)\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.pdb
+C:\Users\lufux\Desktop\version11_交替明文(一次固定一次随机)\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.CopyComplete
+C:\Users\HuangXian\Desktop\版本11\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe.config
+C:\Users\HuangXian\Desktop\版本11\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe
+C:\Users\HuangXian\Desktop\版本11\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.pdb
+C:\Users\HuangXian\Desktop\版本11\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\FTD2XX_NET.dll
+C:\Users\HuangXian\Desktop\版本11\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.exe
+C:\Users\HuangXian\Desktop\版本11\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.pdb
+C:\Users\HuangXian\Desktop\版本11\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csprojAssemblyReference.cache
+C:\Users\HuangXian\Desktop\版本11\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.ResolveComReference.cache
+C:\Users\HuangXian\Desktop\版本11\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.MainForm.resources
+C:\Users\HuangXian\Desktop\版本11\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.Properties.Resources.resources
+C:\Users\HuangXian\Desktop\版本11\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.GenerateResource.cache
+C:\Users\HuangXian\Desktop\版本11\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.CoreCompileInputs.cache
+C:\Users\HuangXian\Desktop\版本11\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.CopyComplete
+C:\Users\HuangXian\Desktop\版本11\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+C:\Users\HuangXian\Desktop\版本11\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+C:\Users\HuangXian\Desktop\版本12\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe.config
+C:\Users\HuangXian\Desktop\版本12\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe
+C:\Users\HuangXian\Desktop\版本12\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.pdb
+C:\Users\HuangXian\Desktop\版本12\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\FTD2XX_NET.dll
+C:\Users\HuangXian\Desktop\版本12\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.exe
+C:\Users\HuangXian\Desktop\版本12\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.pdb
+C:\Users\HuangXian\Desktop\版本12\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csprojAssemblyReference.cache
+C:\Users\HuangXian\Desktop\版本12\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.ResolveComReference.cache
+C:\Users\HuangXian\Desktop\版本12\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.MainForm.resources
+C:\Users\HuangXian\Desktop\版本12\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.Properties.Resources.resources
+C:\Users\HuangXian\Desktop\版本12\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.GenerateResource.cache
+C:\Users\HuangXian\Desktop\版本12\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.CoreCompileInputs.cache
+C:\Users\HuangXian\Desktop\版本12\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.CopyComplete
+C:\Users\HuangXian\Desktop\版本12\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+C:\Users\HuangXian\Desktop\版本12\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+C:\Users\lufux\Desktop\版本13\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe.config
+C:\Users\lufux\Desktop\版本13\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe
+C:\Users\lufux\Desktop\版本13\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.pdb
+C:\Users\lufux\Desktop\版本13\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\FTD2XX_NET.dll
+C:\Users\lufux\Desktop\版本13\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.exe
+C:\Users\lufux\Desktop\版本13\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.pdb
+C:\Users\lufux\Desktop\版本13\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csprojAssemblyReference.cache
+C:\Users\lufux\Desktop\版本13\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.ResolveComReference.cache
+C:\Users\lufux\Desktop\版本13\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.MainForm.resources
+C:\Users\lufux\Desktop\版本13\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.Properties.Resources.resources
+C:\Users\lufux\Desktop\版本13\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.GenerateResource.cache
+C:\Users\lufux\Desktop\版本13\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.CoreCompileInputs.cache
+C:\Users\lufux\Desktop\版本13\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.CopyComplete
+C:\Users\lufux\Desktop\版本13\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+C:\Users\lufux\Desktop\版本13\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+C:\Users\HuangXian\Desktop\AES_版本13\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe.config
+C:\Users\HuangXian\Desktop\AES_版本13\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe
+C:\Users\HuangXian\Desktop\AES_版本13\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.pdb
+C:\Users\HuangXian\Desktop\AES_版本13\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\FTD2XX_NET.dll
+C:\Users\HuangXian\Desktop\AES_版本13\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.exe
+C:\Users\HuangXian\Desktop\AES_版本13\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.pdb
+C:\Users\HuangXian\Desktop\AES_版本13\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csprojResolveAssemblyReference.cache
+C:\Users\HuangXian\Desktop\AES_版本13\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.ResolveComReference.cache
+C:\Users\HuangXian\Desktop\AES_版本13\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.MainForm.resources
+C:\Users\HuangXian\Desktop\AES_版本13\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.Properties.Resources.resources
+C:\Users\HuangXian\Desktop\AES_版本13\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.GenerateResource.Cache
+C:\Users\HuangXian\Desktop\AES_版本13\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+C:\Users\HuangXian\Desktop\AES_版本13\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+C:\Users\HuangXian\Desktop\C#AES\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe.config
+C:\Users\HuangXian\Desktop\C#AES\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.ResolveComReference.cache
+C:\Users\HuangXian\Desktop\C#AES\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+C:\Users\HuangXian\Desktop\C#AES\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+C:\Users\HuangXian\Desktop\C#AES\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe
+C:\Users\HuangXian\Desktop\C#AES\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.pdb
+C:\Users\HuangXian\Desktop\C#AES\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\FTD2XX_NET.dll
+C:\Users\HuangXian\Desktop\C#AES\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.exe
+C:\Users\HuangXian\Desktop\C#AES\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.pdb
+C:\Users\HuangXian\Desktop\C#AES\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csprojResolveAssemblyReference.cache
+C:\Users\HuangXian\Desktop\C#AES\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.MainForm.resources
+C:\Users\HuangXian\Desktop\C#AES\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.Properties.Resources.resources
+C:\Users\HuangXian\Desktop\C#AES\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.GenerateResource.Cache
+C:\Users\HuangXian\Desktop\C#AES_1\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe.config
+C:\Users\HuangXian\Desktop\C#AES_1\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.ResolveComReference.cache
+C:\Users\HuangXian\Desktop\C#AES_1\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+C:\Users\HuangXian\Desktop\C#AES_1\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+C:\Users\HuangXian\Desktop\C#AES_1\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csprojResolveAssemblyReference.cache
+C:\Users\HuangXian\Desktop\C#AES_1\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.MainForm.resources
+C:\Users\HuangXian\Desktop\C#AES_1\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.Properties.Resources.resources
+C:\Users\HuangXian\Desktop\C#AES_1\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.GenerateResource.Cache
+C:\Users\HuangXian\Desktop\C#AES_1\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe
+C:\Users\HuangXian\Desktop\C#AES_1\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.pdb
+C:\Users\HuangXian\Desktop\C#AES_1\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\FTD2XX_NET.dll
+C:\Users\HuangXian\Desktop\C#AES_1\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.exe
+C:\Users\HuangXian\Desktop\C#AES_1\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.pdb
+C:\Users\HuangXian\Desktop\C#AES_DrawPower\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe.config
+C:\Users\HuangXian\Desktop\C#AES_DrawPower\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.ResolveComReference.cache
+C:\Users\HuangXian\Desktop\C#AES_DrawPower\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+C:\Users\HuangXian\Desktop\C#AES_DrawPower\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+C:\Users\HuangXian\Desktop\C#AES_DrawPower\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe
+C:\Users\HuangXian\Desktop\C#AES_DrawPower\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.pdb
+C:\Users\HuangXian\Desktop\C#AES_DrawPower\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\FTD2XX_NET.dll
+C:\Users\HuangXian\Desktop\C#AES_DrawPower\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.exe
+C:\Users\HuangXian\Desktop\C#AES_DrawPower\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.pdb
+C:\Users\HuangXian\Desktop\C#AES_DrawPower\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csprojResolveAssemblyReference.cache
+C:\Users\HuangXian\Desktop\C#AES_DrawPower\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.MainForm.resources
+C:\Users\HuangXian\Desktop\C#AES_DrawPower\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.Properties.Resources.resources
+C:\Users\HuangXian\Desktop\C#AES_DrawPower\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.GenerateResource.Cache
+F:\附件8：数缘科技 - SAKURA-G开发板采波软件\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe.config
+F:\附件8：数缘科技 - SAKURA-G开发板采波软件\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe
+F:\附件8：数缘科技 - SAKURA-G开发板采波软件\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.pdb
+F:\附件8：数缘科技 - SAKURA-G开发板采波软件\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\FTD2XX_NET.dll
+F:\附件8：数缘科技 - SAKURA-G开发板采波软件\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.exe
+F:\附件8：数缘科技 - SAKURA-G开发板采波软件\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.pdb
+F:\附件8：数缘科技 - SAKURA-G开发板采波软件\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csprojAssemblyReference.cache
+F:\附件8：数缘科技 - SAKURA-G开发板采波软件\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.ResolveComReference.cache
+F:\附件8：数缘科技 - SAKURA-G开发板采波软件\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.MainForm.resources
+F:\附件8：数缘科技 - SAKURA-G开发板采波软件\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.Properties.Resources.resources
+F:\附件8：数缘科技 - SAKURA-G开发板采波软件\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.GenerateResource.cache
+F:\附件8：数缘科技 - SAKURA-G开发板采波软件\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.CoreCompileInputs.cache
+F:\附件8：数缘科技 - SAKURA-G开发板采波软件\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.CopyComplete
+F:\附件8：数缘科技 - SAKURA-G开发板采波软件\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+F:\附件8：数缘科技 - SAKURA-G开发板采波软件\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+E:\功耗数据\AES\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe.config
+E:\功耗数据\AES\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe
+E:\功耗数据\AES\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.pdb
+E:\功耗数据\AES\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\FTD2XX_NET.dll
+E:\功耗数据\AES\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.exe
+E:\功耗数据\AES\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.pdb
+E:\功耗数据\AES\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csprojAssemblyReference.cache
+E:\功耗数据\AES\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.ResolveComReference.cache
+E:\功耗数据\AES\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.MainForm.resources
+E:\功耗数据\AES\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.Properties.Resources.resources
+E:\功耗数据\AES\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.GenerateResource.cache
+E:\功耗数据\AES\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.CoreCompileInputs.cache
+E:\功耗数据\AES\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.CopyComplete
+E:\功耗数据\AES\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+E:\功耗数据\AES\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+\\DESKTOP-B0HOMUC\Share File\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe.config
+\\DESKTOP-B0HOMUC\Share File\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe
+\\DESKTOP-B0HOMUC\Share File\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.pdb
+\\DESKTOP-B0HOMUC\Share File\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\FTD2XX_NET.dll
+\\DESKTOP-B0HOMUC\Share File\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.exe
+\\DESKTOP-B0HOMUC\Share File\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.pdb
+\\DESKTOP-B0HOMUC\Share File\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csprojAssemblyReference.cache
+\\DESKTOP-B0HOMUC\Share File\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.ResolveComReference.cache
+\\DESKTOP-B0HOMUC\Share File\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.MainForm.resources
+\\DESKTOP-B0HOMUC\Share File\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.Properties.Resources.resources
+\\DESKTOP-B0HOMUC\Share File\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.GenerateResource.cache
+\\DESKTOP-B0HOMUC\Share File\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.CoreCompileInputs.cache
+\\DESKTOP-B0HOMUC\Share File\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.CopyComplete
+\\DESKTOP-B0HOMUC\Share File\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+\\DESKTOP-B0HOMUC\Share File\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+E:\毕业整理\毕远桥毕业整理\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe.config
+E:\毕业整理\毕远桥毕业整理\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe
+E:\毕业整理\毕远桥毕业整理\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.pdb
+E:\毕业整理\毕远桥毕业整理\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\FTD2XX_NET.dll
+E:\毕业整理\毕远桥毕业整理\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.exe
+E:\毕业整理\毕远桥毕业整理\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.pdb
+E:\毕业整理\毕远桥毕业整理\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.exe.config
+E:\毕业整理\毕远桥毕业整理\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.AssemblyReference.cache
+E:\毕业整理\毕远桥毕业整理\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.SuggestedBindingRedirects.cache
+E:\毕业整理\毕远桥毕业整理\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.ResolveComReference.cache
+E:\毕业整理\毕远桥毕业整理\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.MainForm.resources
+E:\毕业整理\毕远桥毕业整理\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.Properties.Resources.resources
+E:\毕业整理\毕远桥毕业整理\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.GenerateResource.cache
+E:\毕业整理\毕远桥毕业整理\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.CoreCompileInputs.cache
+E:\毕业整理\毕远桥毕业整理\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.CopyComplete
+E:\毕业整理\毕远桥毕业整理\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+E:\毕业整理\毕远桥毕业整理\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+F:\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe.config
+F:\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe
+F:\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.pdb
+F:\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\FTD2XX_NET.dll
+F:\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.exe
+F:\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.pdb
+F:\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.exe.config
+F:\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.AssemblyReference.cache
+F:\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.ResolveComReference.cache
+F:\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.MainForm.resources
+F:\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.Properties.Resources.resources
+F:\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.GenerateResource.cache
+F:\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.CoreCompileInputs.cache
+F:\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.CopyComplete
+F:\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+F:\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+F:\Gstar\cryptology\ExperimentEnvCreate\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe.config
+F:\Gstar\cryptology\ExperimentEnvCreate\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe
+F:\Gstar\cryptology\ExperimentEnvCreate\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\SAKURA_Checker.pdb
+F:\Gstar\cryptology\ExperimentEnvCreate\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\FTD2XX_NET.dll
+F:\Gstar\cryptology\ExperimentEnvCreate\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.exe
+F:\Gstar\cryptology\ExperimentEnvCreate\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.pdb
+F:\Gstar\cryptology\ExperimentEnvCreate\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\bin\Debug\PS3000ACSConsole.exe.config
+F:\Gstar\cryptology\ExperimentEnvCreate\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.AssemblyReference.cache
+F:\Gstar\cryptology\ExperimentEnvCreate\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.ResolveComReference.cache
+F:\Gstar\cryptology\ExperimentEnvCreate\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.MainForm.resources
+F:\Gstar\cryptology\ExperimentEnvCreate\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\MathMagic.Properties.Resources.resources
+F:\Gstar\cryptology\ExperimentEnvCreate\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.GenerateResource.cache
+F:\Gstar\cryptology\ExperimentEnvCreate\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.CoreCompileInputs.cache
+F:\Gstar\cryptology\ExperimentEnvCreate\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.CopyComplete
+F:\Gstar\cryptology\ExperimentEnvCreate\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
+F:\Gstar\cryptology\ExperimentEnvCreate\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
