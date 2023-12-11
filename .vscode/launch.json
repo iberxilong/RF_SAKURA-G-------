@@ -1,0 +1,27 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch SAKURA_Checker",
+            "type": "clr",
+            "request": "launch",
+            "preLaunchTask": "build-solution",
+            "program": "F:\\Gstar\\cryptology\\Experiment\\RF_SAKURA_G_PickWave_Software\\SAKURA_Checker\\bin\\Debug\\SAKURA_Checker.exe",
+            "args": [],
+            "cwd": "F:\\Gstar\\cryptology\\Experiment\\RF_SAKURA_G_PickWave_Software\\SAKURA_Checker",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        },
+        {
+            "name": "Launch PICO",
+            "type": "clr",
+            "request": "launch",
+            "preLaunchTask": "build-solution",  // 确保也是 build-solution
+            "program": "F:\\Gstar\\cryptology\\Experiment\\RF_SAKURA_G_PickWave_Software\\PICO\\bin\\Debug\\PICO.exe",
+            "args": [],
+            "cwd": "F:\\Gstar\\cryptology\\Experiment\\RF_SAKURA_G_PickWave_Software\\PICO",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        }
+    ]
+}

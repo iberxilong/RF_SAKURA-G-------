@@ -1,0 +1,34 @@
+// {
+//     "label": "build-solution",
+//     "command": "D:\\proProgram\\vs2019\\MSBuild\\Current\\Bin\\MSBuild.exe",
+//     "type": "shell",
+//     "args": [
+//         "/property:Configuration=Debug",
+//         "\"F:\\Gstar\\cryptology\\Experiment\\RF_SAKURA_G_PickWave_Software\\SAKURA_Checker\\SAKURA_Checker.sln\""
+//     ],
+//     "group": "build",
+//     "presentation": {
+//         "reveal": "silent"
+//     },
+//     "problemMatcher": "$msCompile"
+// }
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build-solution",
+            "command": "D:\\proProgram\\vs2019\\MSBuild\\Current\\Bin\\MSBuild.exe",
+            "type": "shell",
+            "args": [
+                "/property:Configuration=Debug",
+                "\"F:\\Gstar\\cryptology\\Experiment\\RF_SAKURA_G_PickWave_Software\\SAKURA_Checker.sln\""
+            ],
+            "group": "build",
+            "presentation": {
+                "reveal": "silent"
+            },
+            "problemMatcher": "$msCompile"
+        }
+        // 确保这里没有更多的任务定义，或者如果有的话，它们是正确格式化的
+    ]
+}

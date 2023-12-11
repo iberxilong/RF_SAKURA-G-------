@@ -104,3 +104,10 @@ F:\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3
 F:\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.csproj.CoreCompileInputs.cache
 F:\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.exe
 F:\附件8：数缘科技 - SAKURA-G开发板采波软件\PICO\obj\x86\Debug\PS3000ACSConsole.pdb
+F:\Gstar\cryptology\Experiment\RF_SAKURA_G_PickWave_Software\PICO\bin\Debug\PS3000ACSConsole.exe.config
+F:\Gstar\cryptology\Experiment\RF_SAKURA_G_PickWave_Software\PICO\bin\Debug\PS3000ACSConsole.exe
+F:\Gstar\cryptology\Experiment\RF_SAKURA_G_PickWave_Software\PICO\bin\Debug\PS3000ACSConsole.pdb
+F:\Gstar\cryptology\Experiment\RF_SAKURA_G_PickWave_Software\PICO\obj\x86\Debug\PS3000ACSConsole.csproj.AssemblyReference.cache
+F:\Gstar\cryptology\Experiment\RF_SAKURA_G_PickWave_Software\PICO\obj\x86\Debug\PS3000ACSConsole.csproj.CoreCompileInputs.cache
+F:\Gstar\cryptology\Experiment\RF_SAKURA_G_PickWave_Software\PICO\obj\x86\Debug\PS3000ACSConsole.exe
+F:\Gstar\cryptology\Experiment\RF_SAKURA_G_PickWave_Software\PICO\obj\x86\Debug\PS3000ACSConsole.pdb
