@@ -557,6 +557,7 @@ F:\Gstar\cryptology\ExperimentEnvCreate\附件8：数缘科技 - SAKURA-G开发�
 F:\Gstar\cryptology\ExperimentEnvCreate\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.CopyComplete
 F:\Gstar\cryptology\ExperimentEnvCreate\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.exe
 F:\Gstar\cryptology\ExperimentEnvCreate\附件8：数缘科技 - SAKURA-G开发板采波软件\SAKURA_Checker\obj\Debug\SAKURA_Checker.pdb
+F:\Gstar\cryptology\Experiment\RF_SAKURA_G_PickWave_Software\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.AssemblyReference.cache
 F:\Gstar\cryptology\Experiment\RF_SAKURA_G_PickWave_Software\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe.config
 F:\Gstar\cryptology\Experiment\RF_SAKURA_G_PickWave_Software\SAKURA_Checker\bin\Debug\SAKURA_Checker.exe
 F:\Gstar\cryptology\Experiment\RF_SAKURA_G_PickWave_Software\SAKURA_Checker\bin\Debug\SAKURA_Checker.pdb
@@ -564,7 +565,6 @@ F:\Gstar\cryptology\Experiment\RF_SAKURA_G_PickWave_Software\SAKURA_Checker\bin\
 F:\Gstar\cryptology\Experiment\RF_SAKURA_G_PickWave_Software\SAKURA_Checker\bin\Debug\PS3000ACSConsole.exe
 F:\Gstar\cryptology\Experiment\RF_SAKURA_G_PickWave_Software\SAKURA_Checker\bin\Debug\PS3000ACSConsole.pdb
 F:\Gstar\cryptology\Experiment\RF_SAKURA_G_PickWave_Software\SAKURA_Checker\bin\Debug\PS3000ACSConsole.exe.config
-F:\Gstar\cryptology\Experiment\RF_SAKURA_G_PickWave_Software\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.AssemblyReference.cache
 F:\Gstar\cryptology\Experiment\RF_SAKURA_G_PickWave_Software\SAKURA_Checker\obj\Debug\SAKURA_Checker.csproj.ResolveComReference.cache
 F:\Gstar\cryptology\Experiment\RF_SAKURA_G_PickWave_Software\SAKURA_Checker\obj\Debug\MathMagic.MainForm.resources
 F:\Gstar\cryptology\Experiment\RF_SAKURA_G_PickWave_Software\SAKURA_Checker\obj\Debug\MathMagic.Properties.Resources.resources
