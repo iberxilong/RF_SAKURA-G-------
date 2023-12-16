@@ -4,7 +4,7 @@
  * 
  * 内容说明：此.cs文件主要是进行明文加密、示波器配置、波形采集、波形存储
 ***************************************************************************/
-
+/*本项目已经使用git版本控制，可在 https://github.com/iberxilong/RF_SAKURA-G------- pull repo */
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -1266,7 +1266,7 @@ namespace MathMagic
                 }
             }
             Imports.Stop(handle);
-        }//RapidBlockDataHandler2在这里结束
+        }//RapidBlockDataHandler2在这里结束,这个函数目前没有被用上/被用上的部分被注释了
 
 
 
