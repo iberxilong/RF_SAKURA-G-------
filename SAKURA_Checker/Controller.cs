@@ -21,7 +21,7 @@ using System.Windows.Forms;
 namespace MathMagic
 {
    
-    public partial class  Controller
+    public partial class  Controller                                //  partial代表这个类是分部类的一部分。这意味着可以在其他源文件中继续扩展和定义这个类的其他部分，而不必在同一个源文件中编写所有内容。
     {
         [DllImport("kernel32.dll",
            CallingConvention = CallingConvention.Winapi)]
